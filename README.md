@@ -2,11 +2,15 @@
 
 ![Media2 gif](https://github.com/100cksingh/NoteApp/assets/91086975/e0f0408f-01c0-4010-841e-cd6ea7f7ae49)
 
-<picture>
+
+![Screenshot (3575)](https://github.com/100cksingh/NoteApp/assets/91086975/472f2cc1-85bf-4866-a289-0b7782a3735e)
+
+
+<!-- <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/91086975/234899197-8b54fbab-40dd-489e-8f23-d6aee76c305d.png">
  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/91086975/234899197-8b54fbab-40dd-489e-8f23-d6aee76c305d.png">
  <img alt="shows webpage in light and dark mode " src="https://user-images.githubusercontent.com/91086975/234899197-8b54fbab-40dd-489e-8f23-d6aee76c305d.png">
-</picture>
+</picture> -->
 
 # How did I approach the problem and solve it ?
 ---
