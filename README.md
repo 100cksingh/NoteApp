@@ -1,8 +1,8 @@
 # NoteApp
-
+ ### Demo of App
 ![Media2 gif](https://github.com/100cksingh/NoteApp/assets/91086975/e0f0408f-01c0-4010-841e-cd6ea7f7ae49)
 
-
+### Screenshot of App
 ![Screenshot (3575)](https://github.com/100cksingh/NoteApp/assets/91086975/472f2cc1-85bf-4866-a289-0b7782a3735e)
 
 
