@@ -1,5 +1,7 @@
 # NoteApp
 
+![Media2 gif](https://github.com/100cksingh/NoteApp/assets/91086975/e0f0408f-01c0-4010-841e-cd6ea7f7ae49)
+
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/91086975/234899197-8b54fbab-40dd-489e-8f23-d6aee76c305d.png">
  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/91086975/234899197-8b54fbab-40dd-489e-8f23-d6aee76c305d.png">
